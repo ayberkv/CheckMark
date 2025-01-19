@@ -46,10 +46,3 @@ Yükleme tamamlandığında, eklenti tarayıcı araç çubuğunda görünecektir
 ## Sorun Giderme
 - Eklenti yüklenmezse, tüm dosyaların doğru klasörde olduğundan emin olun.
 - Bir hata ile karşılaşırsanız, konsolu (F12) açarak hata mesajlarını kontrol edin.
-
----
-
-## Lisans
-Bu proje, [LİSANS ADI] lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasına göz atın.
-
-Eklenti ile ilgili herhangi bir sorunuz varsa, lütfen bir GitHub issue açmaktan çekinmeyin!

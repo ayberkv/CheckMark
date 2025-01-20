@@ -52,7 +52,7 @@ function processBarcode(barcode) {
   const rows = document.querySelectorAll('tr[role="row"]');
   rows.forEach(row => {
     const cells = row.querySelectorAll('td[role="gridcell"]');
-    if (cells.length > 1 && cells[1].querySelector('div.x-grid-cell-inner').textContent.trim() === barcode) {
+    if (cells.length > 2 && cells[2].querySelector('div.x-grid-cell-inner').textContent.trim() === barcode) {
       const checkbox = cells[0].querySelector('div.x-grid-row-checker');
       if (checkbox) {
         checkbox.click();

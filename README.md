@@ -45,3 +45,6 @@ Yükleme tamamlandığında, eklenti tarayıcı araç çubuğunda görünecektir
 ## Sorun Giderme
 - Eklenti yüklenmezse, tüm dosyaların doğru klasörde olduğundan emin olun.
 - Bir hata ile karşılaşırsanız, konsolu (F12) açarak hata mesajlarını kontrol edin.
+
+## Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.

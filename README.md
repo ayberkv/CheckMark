@@ -22,7 +22,7 @@ Eklentinin kaynak dosyalarını bilgisayarınıza indirin.
 
 ```bash
 # Git ile klonlamak için
-git clone https://github.com/ayblank/CheckMark.git
+git clone https://github.com/ayberkv/CheckMark.git
 
 # Ya da GitHub'dan ZIP dosyası olarak indirip çıkarın.
 ```

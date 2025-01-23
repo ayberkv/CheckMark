@@ -6,7 +6,6 @@ CheckMark, web sayfalarındaki **checkbox** elemanlarını otomatik olarak işar
 ### Özellikler
 - Barkod okuyucu entegrasyonu.
 - Dinamik olarak checkbox işaretleme.
-- Herhangi bir web sayfasında çalışabilme esnekliği.
 - Kolay kurulum ve kullanım.
 
 ## Eklentinin Kazandırdıkları
